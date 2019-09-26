@@ -1,0 +1,5 @@
+Credentials cache: API:89645957-24D8-427D-97D8-1980A6E17F9C
+        Principal: tamigore@42.FR
+
+  Issued                Expires               Principal
+Aug 28 17:30:58 2018  Sep  4 17:30:58 2018  krbtgt/42.FR@42.FR
